@@ -38,8 +38,7 @@ force_turbo=1
 
 hdmi_edid_file=1
 
-decode_WVC1=0xdacb836b
-decode_MPG2=0x93dde8be
+
 
 lcd_rotate=2
 #dtoverlay=vc4-fkms-v3d
